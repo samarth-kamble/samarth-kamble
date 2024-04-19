@@ -1,13 +1,8 @@
 <h2 align="left">Hi 👋! My name is Samarth Kamble and I'm a Full Stack Web Devoloper  from India.</h2>
 
-###
+# 💫 About Me:
+🔭 I’m currently working on Learning Management System<br>🌱 I’m currently learning NextJS , Express JS.<br>💬 Ask me about ReactJS, Javascript.<br>📫 How to reach me kamble.samarth91@gmail.com<br>👨‍💻 All of my projects are available at https://samarth-kamble.vercel.app
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth-kamble&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth-kamble&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJpeHU5bmszaTlrZndscTZwcDIyMGlrano2ZWcwdDAxbjJjMDhkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif"  />
 
@@ -76,3 +71,14 @@
 </div>
 
 ###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samarth-kamble&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=samarth-kamble&icon=5&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/samarthkamble) 
