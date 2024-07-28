@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Learning Management System<br>🌱 I’m currently learning NextJS , Express JS.<br>💬 Ask me about ReactJS, Javascript.<br>📫 How to reach me kamble.samarth91@gmail.com<br>👨‍💻 All of my projects are available at https://samarth-kamble.vercel.app
+🔭 I’m currently working on <br>🌱 I’m currently learning NextJS , Express JS.<br>💬 Ask me about ReactJS, Javascript.<br>📫 How to reach me kamble.samarth91@gmail.com<br>👨‍💻 All of my projects are available at https://samarth-kamble.vercel.app
 
 
 ## 🌐 Socials:
