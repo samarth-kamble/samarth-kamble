@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! <br>My name is Samarth Kamble</h1>
 
 ###
-
+<h2 align="left"># 🌐 My Socials:</h2>
 <div align="left">
   <a href="kamblesamarth04@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -12,8 +12,9 @@
 ###
 
 <br clear="both">
+<h2 align="left"># 💻 GitHub Tech Stack:</h2>
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
