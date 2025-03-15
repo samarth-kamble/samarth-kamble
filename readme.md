@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=samarth-kamble&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![](https://nirzak-streak-stats.vercel.app/?user=samarth-kamble&theme=dark&hide_border=true)<br/>
 </div>
 
 ###
