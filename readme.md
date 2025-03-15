@@ -8,49 +8,49 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="35" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
