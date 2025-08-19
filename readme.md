@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! <br>My name is Samarth Kamble</h1>
+<h1 align="center">Hi 👋! <br>My name is <b>Samarth Kamble</b></h1>
 
 <br clear="both">
 <h2 align="left"># 💻 GitHub Tech Stack:</h2>
