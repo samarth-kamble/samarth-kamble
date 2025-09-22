@@ -2,20 +2,26 @@
   <img height="100%" src="https://github.com/samarth-kamble/samarth-kamble/blob/main/github.png" width="100%"  />
 </div>
 
-
 <h2 align="center">A Creative Coder Turning Ideas into Reality Through Impactful Technology!</h2>
 
 ###
 
-<h3 align="left">🚀 About Me</h3>
-<h5 align="left">I'm a passionate Software Engineer specializing in Java and JavaScript Technologies. I love building scalable applications and exploring new technologies that solve real-world problems.<br><br>💻 Software Engineer specializing in Java & JavaScript ecosystems<br>🔥 Building full-stack applications with Node.js, Spring Boot, React & Next.js<br>🌱 Currently exploring AWS Cloud, Docker & Microservices<br>🎯 Passionate about creating scalable solutions that solve real problems<br>🤝 Open to collaborating on innovative open-source projects<br>⚡ Always learning, always coding, always improving<br>📧 Contact: kamblesamarth04@gmail.com</h5>
-
-###
-
-
-###
-<h3 align="left">🛠️ Technologies & Tools</h3>
 <br clear="both">
+
+<h2 align="left">🚀 About Me</h2>
+
+###
+
+<h3 align="left">I'm a passionate Software Engineer specializing in Java and JavaScript Technologies. I love building scalable applications and exploring new technologies that solve real-world problems.<br><br>💻 Software Engineer specializing in Java & JavaScript ecosystems<br>🔥 Building full-stack applications with Node.js, Spring Boot, React & Next.js<br>🌱 Currently exploring AWS Cloud, Docker & Microservices<br>🎯 Passionate about creating scalable solutions that solve real problems<br>🤝 Open to collaborating on innovative open-source projects<br>⚡ Always learning, always coding, always improving<br>📧 Contact: kamblesamarth04@gmail.com</h3>
+
+###
+
+<h2 align="left">🛠️ Technologies & Tools</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -52,12 +58,17 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
-
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
@@ -68,7 +79,7 @@
 
 ###
 
-<h3 align="left">🔥 GitHub Streak</h3>
+<h2 align="left">🔥 GitHub Streak</h2>
 
 ###
 
