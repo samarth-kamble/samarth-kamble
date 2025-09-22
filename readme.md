@@ -6,13 +6,9 @@
 <h2 align="center">A Creative Coder Turning Ideas into Reality Through Impactful Technology!</h2>
 
 ###
-
 <h3 align="left">🛠️ Technologies & Tools</h3>
-
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -49,6 +45,28 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarth-kamble&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth-kamble&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">🔥 GitHub Streak</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=samarth-kamble&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
