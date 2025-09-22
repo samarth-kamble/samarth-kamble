@@ -6,8 +6,15 @@
 <h2 align="center">A Creative Coder Turning Ideas into Reality Through Impactful Technology!</h2>
 
 ###
-<h3 align="left">🛠️ Technologies & Tools</h3>
+
+<h3 align="left">🚀 About Me</h3>
+<h5 align="left">I'm a passionate Software Engineer specializing in Java and JavaScript Technologies. I love building scalable applications and exploring new technologies that solve real-world problems.<br><br>💻 Software Engineer specializing in Java & JavaScript ecosystems<br>🔥 Building full-stack applications with Node.js, Spring Boot, React & Next.js<br>🌱 Currently exploring AWS Cloud, Docker & Microservices<br>🎯 Passionate about creating scalable solutions that solve real problems<br>🤝 Open to collaborating on innovative open-source projects<br>⚡ Always learning, always coding, always improving<br>📧 Contact: kamblesamarth04@gmail.com</h5>
+
 ###
+
+
+###
+<h3 align="left">🛠️ Technologies & Tools</h3>
 <br clear="both">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
