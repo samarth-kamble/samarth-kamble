@@ -5,9 +5,7 @@
 <h2 align="center">A Creative Coder Turning Ideas into Reality Through Impactful Technology!</h2>
 
 ###
-
 <br clear="both">
-
 <h2 align="left">🚀 About Me</h2>
 
 ###
