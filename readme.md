@@ -65,28 +65,13 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
 
-###
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=samarth-kamble&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samarth-kamble&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-kamble&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samarth-kamble&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samarth-kamble&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-kamble&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=samarth-kamble&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
 
-###
 
-<h2 align="left">🔥 GitHub Streak</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=samarth-kamble&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
